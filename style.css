@@ -1,0 +1,180 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  background: linear-gradient(180deg, #FDF0E2 0%, #FEFCFA 86.87%);
+  height: 720px;
+}
+
+.wrapper {
+  max-width: 1280px;
+}
+
+nav .logo {
+  background: url('./img/EMUUT\ \(1\).png');
+  position: absolute;
+  width: 110px;
+  height: 33.5px;
+  left: 122px;
+  top: 44px;
+}
+
+nav .get-started {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 30px;
+   position: absolute;
+  width: 128px;
+  height: 32px;
+  left: 1101px;
+  top: 44px; 
+}
+
+nav .get-started a {
+  color: #ffffff;
+  padding: 10px 5px;
+  text-decoration: none;
+  background: #447BE0;
+  border-radius: 4px;
+}
+
+.nav-items {
+  position: absolute;
+  width: 487px;
+  height: 19px;
+  left: 299px;
+  top: 44px;
+  list-style: none;
+  display: flex;
+}
+
+ul {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+li a {
+  display: inline-block;
+  text-decoration: none;
+  color: #000000;
+  padding: 0 30px;
+  margin-left: 10px;
+}
+
+.content {
+  
+}
+
+.text-content h1 {
+  position: absolute;
+width: 475px;
+height: 192px;
+left: 173px;
+top: 289px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 72px;
+line-height: 64px;
+color: #1960AA;
+}
+
+.text-content p {
+  position: absolute;
+width: 407px;
+height: 44px;
+left: 179px;
+top: 505px;
+font-family: Metropolis;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+}
+
+.get-started-x {
+  position: absolute;
+ width: 168px;
+  height: 40px;
+  left: 179px;
+  top: 578px;
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+  background: #447BE0;
+}
+
+.text-content a {
+  color: #FFFFFF;
+  text-decoration: none;
+  padding: 10px 5px;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.btn-light {
+  position: absolute;
+  width: 136px;
+  height: 20px;
+  left: 371px;
+  top: 594px;
+  font-family: Metropolis;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 16px;
+  
+
+}
+
+.btn-light a {
+  text-align: center;
+  color: #2661B1;
+  text-decoration: none;
+}
+
+.img-content {
+  position: absolute;
+  width: 464.14px;
+  height: 548.03px;
+  left: 646px;
+  top: 111px;
+}
+
+/* Section How-it */
+section {
+ 
+}
+
+.how-it {
+   position: absolute;
+  width: 1283px;
+  height: 720px;
+  left: 0px;
+  top: 1447px;
+  background: linear-gradient(235.46deg, #D7E4FC 4.98%, rgba(253, 240, 226, 0.06) 49.19%);
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.content-img {
+  position: absolute;
+  width: 572.83px;
+  height: 427.85px;
+  left: 120px;
+  top: 861px;
+  background: url('./img/pexels-picha-stock-3894378\ 1.jpg');
+}
